@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sofizzz18
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on java projects
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me sofiirajaa@gmail.com
 
 <!---
