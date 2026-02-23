@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sofizzz18
+- 👋 Hi, I’m @Sofizz
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on Python projects
