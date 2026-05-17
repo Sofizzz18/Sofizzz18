@@ -1,6 +1,8 @@
 Hi, I'm Raja Rashid 👋
 🎓 M.Sc. Information Technology graduate from Cluster University, Srinagar
+
 💼 AI Data Specialist | Data Analyst | NLP Enthusiast
+
 📍 Srinagar, Jammu & Kashmir, India
 
 ## About Me
