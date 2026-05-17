@@ -4,9 +4,13 @@ Hi, I'm Raja Rashid 👋
 📍 Srinagar, Jammu & Kashmir, India
 
 ## About Me
-I'm an AI Data Specialist with hands-on experience improving machine learning
-models through audio annotation, translation evaluation, and sentiment analysis.
-I enjoy working on NLP projects and building data-driven applications.
+I love turning raw data into meaningful stories. As an AI Data Specialist
+and Data Analyst, I'm passionate about uncovering patterns, building
+intelligent models, and creating dashboards that make data easy to understand.
+
+From annotating audio for conversational AI to building sentiment classifiers
+and interactive visualizations, I enjoy every part of the data pipeline —
+from messy raw data all the way to clean, actionable insights.
 
 ## What I Work With
 - **Languages:** Python, SQL
