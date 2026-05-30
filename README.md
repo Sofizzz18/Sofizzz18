@@ -29,8 +29,28 @@ Bayes, achieving up to 94.43% accuracy. Deployed as an interactive web app
 using Streamlit.
 
 ## Certifications
-- 🏅 Data Visualization and Dashboards with Excel and Cognos — IBM (via Coursera), May 2026
-- 🏅 Introduction to Back-End Development — Meta (via Coursera), Nov 2023
+# 🎓 Certifications
+
+## IBM Data Analyst Professional Certificate
+**Issuer:** IBM via Coursera | **Completed:** May 2026
+
+| Course | Certificate |
+|--------|-------------|
+| Python for Data Science, AI & Development | [Verify](https://coursera.org/verify/USKLVH64E19Z) |
+| Databases and SQL for Data Science with Python | [Verify](https://coursera.org/verify/IHAQAMPPUVU2) |
+| Data Visualization and Dashboards with Excel and Cognos | [Verify](https://coursera.org/verify/30DMKU3198H4) |
+| Excel Basics for Data Analysis | [Verify](https://coursera.org/verify/UBB2RQCF6ZY3) |
+| Assessment for Data Analysis and Visualization Foundations | [Verify](https://coursera.org/verify/5THUN8WU8HG9) |
+| Introduction to Data Analytics | [Verify](https://www.coursera.org/account/accomplishments/verify/THBS4CY9P3ZA) |
+
+---
+
+## 🛠️ Skills Covered
+`Python` `SQL` `Excel` `IBM Cognos` `Data Visualization` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Data Analysis`
+
+---
+
+*All certificates issued by IBM and verified through Coursera.*
 
 ## Currently Learning
 - 📊 Data Science with Python — IBM (via Coursera) *(in progress)*
