@@ -25,7 +25,7 @@ from messy raw data all the way to clean, actionable insights.
 ## Featured Project
 🔍 **E-Commerce Sentiment Analysis**
 Sentiment classification system for 5,568 product reviews using SVM and Naive
-Bayes, achieving up to 94.43% accuracy. Deployed as an interactive web app
+Bayes, achieving up to  96.41% and 92.73% accuracy respectively. Deployed as an interactive web app
 using Streamlit.
 
 ## Certifications
