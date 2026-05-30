@@ -53,6 +53,6 @@ using Streamlit.
 *All certificates issued by IBM and verified through Coursera.*
 
 ## Currently Learning
-- 📊 Data Science with Python — IBM (via Coursera) *(in progress)*
+- 📊 Data Analysis with Python — IBM (via Coursera) *(in progress)*
 - Google Data Analytics
 - Expanding SQL and data visualisation skills
