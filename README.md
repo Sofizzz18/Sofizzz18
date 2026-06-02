@@ -43,6 +43,12 @@ using Streamlit.
 | Assessment for Data Analysis and Visualization Foundations | [Verify](https://coursera.org/verify/5THUN8WU8HG9) |
 | Introduction to Data Analytics | [Verify](https://www.coursera.org/account/accomplishments/verify/THBS4CY9P3ZA) |
 
+## Google Data Analytics
+**Issuer:** Google via Coursera | **Completed:** June 2026
+| Course | Certificate |
+|--------|-------------|
+| Foundations: Data, Data, Everywhere | [Verify](https://www.coursera.org/account/accomplishments/verify/9H2SDOYXOFII) |
+
 ---
 
 ## 🛠️ Skills Covered
