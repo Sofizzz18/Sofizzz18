@@ -47,7 +47,7 @@ using Streamlit.
 **Issuer:** Google via Coursera | **Completed:** June 2026
 | Course | Certificate |
 |--------|-------------|
-|  | [Verify](https://www.coursera.org/my-learning?myLearningTab=CERTIFICATES) |
+| Google Data Analytics Professional Certificate | [Verify](https://www.coursera.org/my-learning?myLearningTab=CERTIFICATES) |
 
 ---
 
