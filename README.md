@@ -52,13 +52,13 @@ using Streamlit.
 ---
 
 ## 🛠️ Skills Covered
-`Python` `SQL` `Excel` `IBM Cognos` `Data Visualization` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Data Analysis`
+`Python` `SQL` `Excel` `IBM Cognos` `Data Visualization` `Pandas` `NumPy` `Scikit-learn` `Machine Learning` `Data Analysis` `BigQuery`
 
 ---
 
 *All certificates issued by IBM and verified through Coursera.*
 
 ## Currently Learning
-- 📊 Data Analysis with Python — IBM (via Coursera) *(in progress)*
+- 📊 Microsoft Power BI Data Analyst — IBM (via Coursera) *(in progress)*
 - Google Data Analytics
 - Expanding SQL and data visualisation skills
