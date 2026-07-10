@@ -83,17 +83,22 @@ From annotating audio for conversational AI to building sentiment classifiers an
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/sofizzz18/REPO-NAME-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sofizzz18&repo=REPO-NAME-1&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Sofizzz18/E-Commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofizzz18&repo=E-Commerce&theme=tokyonight&hide_border=true" />
   </a>
-  <a href="https://github.com/sofizzz18/REPO-NAME-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sofizzz18&repo=REPO-NAME-2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Sofizzz18/retail-sales-powerbi-dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofizzz18&repo=retail-sales-powerbi-dashboard&theme=tokyonight&hide_border=true" />
   </a>
 </p>
 
-> 💡 Replace `REPO-NAME-1` and `REPO-NAME-2` above with your actual repository names to pin your best work.
-
----
+<p align="center">
+  <a href="https://github.com/Sofizzz18/Retail_Sales_Analysis_-_Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofizzz18&repo=Retail_Sales_Analysis_-_Dashboard&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/Sofizzz18/Video_Games_Sales_Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofizzz18&repo=Video_Games_Sales_Dashboard&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ## 📈 Contribution Graph
 
