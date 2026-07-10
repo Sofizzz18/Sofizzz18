@@ -1,14 +1,13 @@
 <h1 align="center">Hi there, I'm Raja Rashid 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+AI+Data+Specialist;NLP+Enthusiast+%F0%9F%A4%96;Turning+Raw+Data+into+Stories+%F0%9F%93%8A;LLM+Integration+%7C+LLaMA-2+%7C+Gemma-2" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+NLP+Enthusiast;Turning+Raw+Data+into+Stories+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Data+Cleaning+%7C+Dashboards+%7C+Reporting" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/rajarashid18"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto: sofiraja540@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/sofizzz18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://twitter.com/sofizzz18"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:sofiraja540@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Sofizzz18"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,24 +15,22 @@
 ## 🧑‍💻 About Me
 
 🎓 **M.Sc. Information Technology** graduate from Cluster University, Srinagar
-💼 **Data Analyst | AI Data Specialist | NLP Enthusiast**
+💼 **Data Analyst | Data Quality & AI Annotation Analyst**
 📍 Based in **Srinagar, Jammu & Kashmir, India**
 
-I love turning raw data into meaningful stories. As an AI Data Specialist and Data Analyst, I'm passionate about uncovering patterns, building intelligent models, and creating dashboards that make data easy to understand.
+I love turning raw data into meaningful stories — from cleaning messy datasets to building dashboards that make insights easy to act on. My background spans data annotation and quality work for AI training pipelines, a research internship applying NLP for sentiment and hate speech detection, and hands-on project work in sentiment classification and business dashboards.
 
-From annotating audio for conversational AI to building sentiment classifiers and interactive visualizations, I enjoy every part of the data pipeline — from messy raw data all the way to clean, actionable insights.
-
-- 🔭 Currently working on **NLP & LLM-integrated data pipelines**
-- 🌱 Currently exploring **LLaMA-2 & Gemma-2 fine-tuning**
-- 💬 Ask me about **Python, SQL, ML, NLP, and Data Visualization**
-- ⚡ Fun fact: I enjoy finding stories hidden inside messy datasets
+- 🔭 Currently strengthening **Python fundamentals and clean coding practices**
+- 📊 Comfortable across the analytics stack: **SQL, Power BI, Tableau, Excel**
+- 💬 Ask me about **data cleaning, EDA, dashboards, and sentiment analysis**
+- ⚡ Fun fact: I enjoy finding the story hidden inside a messy dataset
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sklearn,git,github,vscode,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,sklearn,git,github,vscode,jupyter&theme=dark" />
 </p>
 
 <p align="center">
@@ -59,6 +56,7 @@ From annotating audio for conversational AI to building sentiment classifiers an
   <img src="https://img.shields.io/badge/Llama%202-000000?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
+---
 
 ## 🚀 Featured Projects
 
@@ -80,20 +78,14 @@ From annotating audio for conversational AI to building sentiment classifiers an
   </a>
 </p>
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofizzz18&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" />
-</p>
-
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/rajarashid18"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-  <a href="mailto:sofiirajaa@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
-  <a href="https://kaggle.com/rajarashid1"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=Kaggle&logoColor=white" /></a>
+  <a href="mailto:sofiraja540@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="https://github.com/Sofizzz18"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=Github&logoColor=white" /></a>
 </p>
 
 <p align="center">
