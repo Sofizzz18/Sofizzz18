@@ -33,25 +33,28 @@ From annotating audio for conversational AI to building sentiment classifiers an
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,sklearn,pandas,numpy,git,github,vscode,jupyter,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,tableau,git,github,vscode,jupyter,linux&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/TF--IDF-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SVM-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Naive%20Bayes-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLaMA--2-000000?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemma--2-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
----
+--
 
 ## 📊 GitHub Stats
 
