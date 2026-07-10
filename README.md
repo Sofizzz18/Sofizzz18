@@ -30,7 +30,7 @@ I love turning raw data into meaningful stories — from cleaning messy datasets
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,sklearn,git,github,vscode,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,sklearn,git,github,vscode,jupyter&theme=dark" />
 </p>
 
 <p align="center">
@@ -60,23 +60,56 @@ I love turning raw data into meaningful stories — from cleaning messy datasets
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/Sofizzz18/E-Commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofizzz18&repo=E-Commerce&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Sofizzz18/retail-sales-powerbi-dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofizzz18&repo=retail-sales-powerbi-dashboard&theme=tokyonight&hide_border=true" />
-  </a>
+### 🛍️ E-Commerce Review Sentiment Analysis
+Sentiment classification on 5,568 e-commerce reviews using SVM and Naive Bayes with TF-IDF and SMOTE, deployed via a Streamlit app for real-time predictions.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Sofizzz18/Retail_Sales_Analysis_-_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofizzz18&repo=Retail_Sales_Analysis_-_Dashboard&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Sofizzz18/Video_Games_Sales_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sofizzz18&repo=Video_Games_Sales_Dashboard&theme=tokyonight&hide_border=true" />
-  </a>
+🔗 [View Repository](https://github.com/Sofizzz18/E-Commerce)
+
+---
+
+### 📊 Retail Sales Power BI Dashboard
+Interactive retail sales dashboard with DAX-driven KPIs, regional and category breakdowns, and dynamic slicers.
+
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/DAX-217346?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 </p>
+
+🔗 [View Repository](https://github.com/Sofizzz18/retail-sales-powerbi-dashboard)
+
+---
+
+### 📈 Retail Sales Analysis Dashboard
+End-to-end Excel analysis of retail sales — data cleaning, pivot tables, and a KPI dashboard uncovering trends by category, gender, and age group.
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pivot%20Tables-217346?style=flat-square" />
+  <img src="https://img.shields.io/badge/KPI%20Reporting-2E9EF7?style=flat-square" />
+</p>
+
+🔗 [View Repository](https://github.com/Sofizzz18/Retail_Sales_Analysis_-_Dashboard)
+
+---
+
+### 🎮 Video Game Sales Dashboard
+Interactive Excel dashboard analyzing global video game sales across genres, platforms, and regions using PivotTables, PivotCharts, and KPI cards.
+
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PivotCharts-217346?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-2E9EF7?style=flat-square" />
+</p>
+
+🔗 [View Repository](https://github.com/Sofizzz18/Video_Games_Sales_Dashboard)
 
 ---
 
