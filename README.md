@@ -33,7 +33,7 @@ From annotating audio for conversational AI to building sentiment classifiers an
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,powerbi,tableau,git,github,vscode,jupyter,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,linux&theme=dark" />
 </p>
 
 <p align="center">
