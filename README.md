@@ -33,7 +33,7 @@ From annotating audio for conversational AI to building sentiment classifiers an
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode,jupyter,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,pandas,sklearn,git,github,vscode,jupyter&theme=dark" />
 </p>
 
 <p align="center">
@@ -42,18 +42,22 @@ From annotating audio for conversational AI to building sentiment classifiers an
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM%20Cognos%20Analytics-052FAD?style=for-the-badge&logo=ibm&logoColor=white" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-2E9EF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Sentiment%20Analysis-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TF--IDF-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/SVM-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Naive%20Bayes-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Llama%202-000000?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
-
 --
 
 ## 📊 GitHub Stats
