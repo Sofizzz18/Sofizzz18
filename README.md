@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Raja Rashid 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+NLP+Enthusiast;Turning+Raw+Data+into+Stories+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Data+Cleaning+%7C+Dashboards+%7C+Reporting" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+NLP+Enthusiast;Turning+Raw+Data+into+Stories+%F0%9F%93%8A;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Data+Cleaning+%7C+Dashboards+%7C+Reporting" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,10 +18,12 @@
 💼 **Data Analyst | Data Quality & AI Annotation Analyst**
 📍 Based in **Srinagar, Jammu & Kashmir, India**
 
-I love turning raw data into meaningful stories — from cleaning messy datasets to building dashboards that make insights easy to act on. My background spans data annotation and quality work for AI training pipelines, a research internship applying NLP for sentiment and hate speech detection, and hands-on project work in sentiment classification and business dashboards.
+I love turning raw data into meaningful stories — from cleaning messy datasets to building dashboards and tools that make insights easy to act on. My background spans data annotation and quality work for AI training pipelines, a research internship applying NLP for sentiment and hate speech detection, and hands-on project work in sentiment classification, EDA automation, and business dashboards.
 
-- 🔭 Currently strengthening **Python fundamentals and clean coding practices**
-- 📊 Comfortable across the analytics stack: **SQL, Power BI, Tableau, Excel**
+- 🎓 Completed the **Google Data Analytics Professional Certificate** and **IBM Data Analyst Specialization**
+- 🔭 Currently building analytics tools with **Python and Streamlit**, and exploring **LLM integration into data workflows**
+- 📊 Comfortable across the analytics stack: **Python, SQL, Power BI, Tableau, Excel**
+- 📝 Working on a research paper comparing SVM and Naive Bayes for sentiment classification, targeting publication in IJARCCE/IJRASET
 - 💬 Ask me about **data cleaning, EDA, dashboards, and sentiment analysis**
 - ⚡ Fun fact: I enjoy finding the story hidden inside a messy dataset
 
@@ -47,6 +49,7 @@ I love turning raw data into meaningful stories — from cleaning messy datasets
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Machine%20Learning-2E9EF7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Sentiment%20Analysis-FF6F00?style=for-the-badge" />
@@ -61,7 +64,7 @@ I love turning raw data into meaningful stories — from cleaning messy datasets
 ## 🚀 Featured Projects
 
 ### 🛍️ E-Commerce Review Sentiment Analysis
-Sentiment classification on 5,568 e-commerce reviews using SVM and Naive Bayes with TF-IDF and SMOTE, deployed via a Streamlit app for real-time predictions.
+Sentiment classification on 5,568 e-commerce reviews using SVM (96.41% accuracy) and Naive Bayes (92.73% accuracy) with TF-IDF and SMOTE, deployed via a Streamlit app for real-time predictions.
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -70,7 +73,35 @@ Sentiment classification on 5,568 e-commerce reviews using SVM and Naive Bayes w
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
 </p>
 
-🔗 [View Repository](https://github.com/Sofizzz18/E-Commerce)
+🔗 [View Repository](https://github.com/Sofizzz18/E-Commerce) · 🌐 [Live App](https://ecommercesentiment.streamlit.app)
+
+---
+
+### 📊 Auto-EDA Dashboard Generator
+A from-scratch Streamlit + Plotly tool that auto-detects column types, generates instant insights and a full EDA report with PDF export, and includes a natural-language query layer powered by the Anthropic API for asking questions about your data in plain English.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM%20Integration-2E9EF7?style=flat-square" />
+</p>
+
+🔗 [View Repository](https://github.com/Sofizzz18/auto-eda-dashboard-generator)
+
+---
+
+### 🦠 COVID-19 Global Data Analysis
+Exploratory data analysis of global COVID-19 case, death, and recovery data — covering country and regional trends, per-capita impact, and correlation analysis, with insights drawn out at each step.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square" />
+</p>
+
+🔗 [View Repository](https://github.com/Sofizzz18/covid-19-eda-python)
 
 ---
 
